@@ -13,6 +13,8 @@ I am a final-year PhD student in the Data Science and AI Division of the Departm
 
 My PhD is supervised by [Ross D. King](https://www.chalmers.se/en/persons/rossk/).
 
+# Key publications
+
 
 
 <!-- You can find my projects and code on [GitHub](https://github.com/filipkro). -->

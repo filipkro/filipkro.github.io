@@ -11,8 +11,8 @@ main:
   - title: "Home"
     url: /
 
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
 
   # - title: "GitHub"
   #   url: https://github.com/filipkro
